@@ -1,0 +1,12 @@
+application_name = Prefix Suffix Mass File Renamer 1.0
+application_excutable = Prefix Suffix Mass File Renamer.exe
+application_icon = Application_Icon.ico
+application_splashimage = splash_image.jpg
+application_netmajorversion = 1
+application_netminorversion = 0
+application_buildnumber = 4323
+application_colour = A61AA6
+application_forecolour = FFFFFF
+application_colour = A61AA6
+application_forecolour = FFFFFF
+application_download = http://www.commerce.uct.ac.za/Commerce_IT/Support/Utilities/Files/DotNetFramework/dotnetfx.exe
